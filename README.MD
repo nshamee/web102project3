@@ -11,4 +11,6 @@ Created a flash cards site which allows for seeing if the answer is correct for 
 
 ## Tools used 🔨
 
+* [React] - The Front End Framework used
 * [JS,HTML,CSS] - Used for the Front End
+
