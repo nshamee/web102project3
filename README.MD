@@ -8,3 +8,7 @@ Created a flash cards site which allows for seeing if the answer is correct for 
 - A next button is displayed on the card and can be used to navigate to the next card in a set sequence
 - A list of card pairs is created
 - A single card at a time is displayed, only showing one of the components of the information pair
+
+## Tools used 🔨
+
+* [JS,HTML,CSS] - Used for the Front End
